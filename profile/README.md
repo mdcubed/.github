@@ -2,9 +2,9 @@
 
 ### Hi there 👋
 
-Welcome to the official GitHub presence of the **Mechanistic Drug Design and Discovery (MD3) Group**.
+Welcome to the official GitHub of the **Mechanistic Drug Design and Discovery (MD3) Group**.
 
-We are a research group focused on **structure-based design, molecular simulations, and free-energy methods for therapeutic discovery**. Our work sits at the interface of **computational chemistry, biophysics, and drug discovery**, with the goal of uncovering molecular mechanisms and turning them into predictive strategies for designing better medicines.
+We are a research group focused on **structure-based drug design, molecular simulations, and free-energy methods for therapeutic discovery**. Our work sits at the interface of **computational chemistry, biophysics, and drug discovery**, with the goal of uncovering molecular mechanisms and turning them into predictive strategies for designing better medicines.
 
 ## Our Research
 
@@ -37,8 +37,6 @@ This GitHub space will host selected resources from the group, including:
 ## Get in Touch
 
 We welcome collaborations across **computational chemistry, structural biology, pharmacology, and therapeutic discovery**.
-
-
 
 For collaboration inquiries or to learn more about our work, please reach out through the group’s official channels.
 
