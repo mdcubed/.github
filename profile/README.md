@@ -1,4 +1,5 @@
-# Mechanistic Drug Design and Discovery (MD3) Group - University of Copenhagen
+# Mechanistic Drug Design and Discovery (MD3) Group
+# University of Copenhagen
 
 ### Hi there 👋
 
